@@ -14,7 +14,10 @@ public class JavaApplication5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub");
+        System.out.println ("Ejemplo de Java\n" +
+"Manejado desde GitHub\n" +
+"Versionado a través de Git\n" +
+"Creado por <ubicar su usuario de github>");
         // TODO code application logic here
     }
     
