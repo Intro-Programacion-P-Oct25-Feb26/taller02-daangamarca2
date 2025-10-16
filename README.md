@@ -1,4 +1,4 @@
-# Taller 2 (Laboratorio): Configuración de uso de Git y GitHub
+`# Taller 2 (Laboratorio): Configuración de uso de Git y GitHub
 
 ## Actividades
 # Cambio en GitHub
